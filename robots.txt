@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wemeizu.thelaststyleguide.com/sitemap.xml
